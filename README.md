@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ghada Mokhtar 👋
 
-<!--
-**Ghada-Mokhtar/Ghada-Mokhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Telecommunications Engineering Student at ENSTA (École Nationale Supérieure des Technologies Avancées), Algeria
+📍 Based in Algiers, Algeria
+🎯 Expected Graduation: Summer 2027
 
-Here are some ideas to get you started:
+## About Me
+I'm a  network & telecommunications engineering student passionate about RF/microwave engineering, wireless networks, optical networks, IoT, and embedded systems. I've gained hands-on experience through internships at Algérie Télécom  and EPTV (Établissement Public de Télévision).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Areas of Interest
+- RF & Microwave Engineering
+- Network Engineering & Infrastructure 
+- Wireless Networks & 5G/NR
+- Optical Networks
+- IoT & Embedded Systems
+
+## 🛠️ Tools & Technologies
+
+**RF/Microwave Design:**
+- HFSS
+
+**Simulation & Programming:**
+- MATLAB
+- Python
+- Java
+- JavaScript
+
+**Embedded Systems:**
+- STM32
+
+**Networking:**
+- Cisco (CCNA-level networking)
+
+## 📫 Connect with Me
+- LinkedIn: [Ghada Mokhtar](https://www.linkedin.com/in/ghada-mokhtar-a30931439)
+
+## 📌 Featured Projects
