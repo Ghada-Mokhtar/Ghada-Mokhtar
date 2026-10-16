@@ -3,7 +3,7 @@
 🎓  Telecommunications & Network Engineering Student at ENSTA (Algiers, Algeria), graduation in 2027.
 
 ## Projects
-- **5G NR OFDM Link Simulation (MATLAB, 5G Toolbox)**: n78 band (3.5 GHz), 100MHz, 30 kHz SCS. Link budget based on 3GPP TR 38.901 and BER vs SNR over AWGN, Rician and Rayleigh channels. (https://github.com/Ghada-Mokhtar/5G-NR-OFDM-Link-Simulation)
+- **5G NR OFDM Link Simulation (MATLAB, 5G Toolbox)**: n78 band (3.5 GHz), 100MHz, 30 kHz SCS. Link budget based on 3GPP TR 38.901 and BER vs SNR over AWGN, Rician and Rayleigh channels. [5G-NR-Link-Simulation] (https://github.com/Ghada-Mokhtar/5G-NR-OFDM-Link-Simulation)
 
 ## Experience
 
