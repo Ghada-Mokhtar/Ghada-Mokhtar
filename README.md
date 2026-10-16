@@ -3,7 +3,7 @@
 🎓  Telecommunications & Network Engineering Student at ENSTA (Algiers, Algeria), graduation in 2027.
 
 ## Projects
-- **5G NR OFDM Link Simulation (MATLAB, 5G Toolbox)**: n78 band (3.5 GHz), 100MHz, 30 kHz SCS. Link budget based on 3GPP TR 38.901 and BER vs SNR over AWNG, Rician and Rayleigh channels.
+- **5G NR OFDM Link Simulation (MATLAB, 5G Toolbox)**: n78 band (3.5 GHz), 100MHz, 30 kHz SCS. Link budget based on 3GPP TR 38.901 and BER vs SNR over AWGN, Rician and Rayleigh channels.
 
 ## Experience
 
@@ -19,17 +19,11 @@
   - Observed the media server room (acquisition and storage racks) and the redundancy/backup setup for faults and power outages.
   - Learned how fiber optics is used for transport, and how video/image compression and live transmission work.
 
-## 🔧 Areas of Interest
-- Computer Networks & Network Infrastructure
-- RF & Microwave Engineering
-- Wireless Communications & 5G Networks
-- Optical Networks
-- IoT & Embedded Systems
 
 ## 🛠️ Technical Skills
 
 **Programming:**
-- Python ,Object-Oriented Programming (OOP)
+- Python (OOP)
 
 **Web Development:**
 - JavaScript , CSS , HTML
