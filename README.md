@@ -40,6 +40,3 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Ghada Mokhtar](https://www.linkedin.com/in/ghada-mokhtar-a30931439)
-
-
-## 📌 Featured Projects
